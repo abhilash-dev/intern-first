@@ -1,0 +1,2 @@
+101	PQR	123 Some Street, City Name, ST	CREDIT_CARD,DEBIT_CARD
+102	MNO	456 Other Street, Cool City, SS	DEBIT_CARD
